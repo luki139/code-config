@@ -54,6 +54,7 @@
         "<C-c>": false,
         "<C-x>": false,
         "<C-v>": false,
+        "<C-f>": false,
     },
     "vim.timeout": 150,
     "python.formatting.provider": "black",
